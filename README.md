@@ -1,16 +1,38 @@
-# aplikasi_kalkulator
 
-A new Flutter project.
+# My Kalkulator
+My Kalkulator adalah aplikasi kalkulator sederhana yang dibuat menggunakan Flutter.Selain bisa menghitung seperti kalkulator dengan operasi sederhana, aplikasi ini juga memiliki fitur tambahan seperti riwayat perhitungan dan halaman profil pengguna. Desain tampilannya dibuat menarik agar nyaman digunakan.Operasi sederhana yang digunakan antara lain :
+1. Penjumlahan (+)
+2. Pengurangan (-)
+3. Perkalian (x)
+4. Pembagian (:)
+5. Persen(%)
+ 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Software
+    Framwork yang digunakan : Flutter
+    Bahasa pemrograman: Dart 
+    Editor: VSCODE 
+## Instalation
+
+1. Download folder MyAppKalkulator.zip
+    https://drive.google.com/file/d/1T8GasRw41ZrA9tgmWzKNEJKZesNhDG-F/view?usp=sharing
+2. Ekstrak folder MyAppKalkulator.zip
+3. Buka folder tersebut di VSCODE 
+4. Jalankan perintah "flutter pub get" 
+## Demo
+
+https://drive.google.com/file/d/1plqTO7rLjx1hFWlb-3H95oSQ-uHHzLSW/view?usp=sharing
+
+
+## Authors
+
+- [@Arnirufie](https://www.github.com/Arnirufie)
+- [@instagram](https://www.instagram.com/rufie.aa)
+
