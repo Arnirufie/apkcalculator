@@ -33,6 +33,5 @@ https://drive.google.com/file/d/1plqTO7rLjx1hFWlb-3H95oSQ-uHHzLSW/view?usp=shari
 
 ## Authors
 
-- [@Arnirufie](https://www.github.com/Arnirufie)
 - [@instagram](https://www.instagram.com/rufie.aa)
 
